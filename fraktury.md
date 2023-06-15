@@ -1,4 +1,4 @@
-| Druhy zlomenin           | Popis                                                                                                                                              |
+| **DRUHY ZLOMENIN**       | **POPIS**                                                                                                                                          |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Uzavřená zlomenina       | Zlomenina kosti, která neprovází protruzi kostních úlomků skrz kůži.                                                                                |
 | Otevřená zlomenina        | Zlomenina kosti, kde kostní úlomky protrhají kůži a vystavují jevnému prostředí.                                                                     |
